@@ -1,0 +1,12 @@
+Exam Submission for admin
+Submitted at 2025-04-04 16:26:34.221245
+
+Q1 (5 pts): What does 'OOP' stand for?
+Answer: [No Answer]
+
+Q2 (5 pts): Which of the following is a Python list method?
+Answer: [No Answer]
+
+Q3 (5 pts): Which data structure does BFS typically use?
+Answer: [No Answer]
+
